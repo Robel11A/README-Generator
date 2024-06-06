@@ -39,5 +39,13 @@
   ## License
   
   This project is licensed under the APACHE 2.0 license.
+
+
+  ## Video Demo
+
+Check out a video demonstration of our project:
+
+[![Watch the video](/Users/robate/Desktop/new-generator.mov)
+
   
   
