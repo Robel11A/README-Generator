@@ -1,9 +1,9 @@
-# README-generator
+# readme
     ![License: APACHE 2.0](https://img.shields.io/badge/License-APACHE%202.0-blue.svg)
   
   ## Description
   
-  to generate readme file
+  run
   
   ## Table of Contents
   
@@ -18,15 +18,15 @@
   
   ## Installation
   
-  input
+  install
   
   ## Usage
   
-  usage
+  use
   
   ## Contributing
   
-  contribute
+  input
   
   ## Tests
   
@@ -34,10 +34,11 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at Bartorino10@gmail.com. You can find more of my work at [robel11A](https://github.com/robel11A/).
+  If you have any questions about the repo, open an issue or contact me directly at rob11. You can find more of my work at [rob](https://github.com/rob/).
   
   ## License
   
   This project is licensed under the APACHE 2.0 license.
   
-  [watch the demo video](./assets/New%20README.mov)
+  [watch the demo video](./assets/New%201%20readme.mov)
+  
