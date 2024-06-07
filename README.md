@@ -1,9 +1,9 @@
-# README-GENERATOR
+# README-generator
     ![License: APACHE 2.0](https://img.shields.io/badge/License-APACHE%202.0-blue.svg)
   
   ## Description
   
-  generate readme file
+  to generate readme file
   
   ## Table of Contents
   
@@ -18,7 +18,7 @@
   
   ## Installation
   
-  installation
+  input
   
   ## Usage
   
@@ -30,22 +30,14 @@
   
   ## Tests
   
-  tests
+  test
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at Bartorino10@gmail.com. You can find more of my work at [RobelA11](https://github.com/RobelA11/).
+  If you have any questions about the repo, open an issue or contact me directly at Bartorino10@gmail.com. You can find more of my work at [robel11A](https://github.com/robel11A/).
   
   ## License
   
   This project is licensed under the APACHE 2.0 license.
-
-
-  ## Video Demo
-
-Check out a video demonstration of our project:
-
-![Watch the video](/assets/new-generator.mov)
-
   
-  
+  [watch the demo video](./assets/New%20README.mov)
