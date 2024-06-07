@@ -45,7 +45,7 @@
 
 Check out a video demonstration of our project:
 
-[![Watch the video](/Users/robate/Desktop/new-generator.mov)
+![Watch the video](/assets/new-generator.mov)
 
   
   
