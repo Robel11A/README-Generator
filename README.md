@@ -40,5 +40,8 @@
   
   This project is licensed under the APACHE 2.0 license.
   
-  [watch the demo video](./assets/New%201%20readme.mov)
-  
+  [watch the demo video](./assets/New1readme.mov)
+
+  <video width="320" height="240" controls src="./assets/New1readme.mov">
+
+</video>
