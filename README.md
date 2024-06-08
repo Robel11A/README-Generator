@@ -42,10 +42,6 @@
   
   [watch the demo video](./assets/New1readme.mov)
 
-  <video width="320" height="240" controls src="./assets/New1readme.mov">
-
-</video>
-
 
 https://github.com/Robel11A/README-Generator/assets/164986243/c6c4b429-7a82-48cc-8c8a-dfecef27c09e
 
